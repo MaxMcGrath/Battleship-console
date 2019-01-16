@@ -1,0 +1,11 @@
+/home/max/Desktop/DEV/Battle/Battleship-console/bin/Debug/netcoreapp2.2/Battleship-console.deps.json
+/home/max/Desktop/DEV/Battle/Battleship-console/bin/Debug/netcoreapp2.2/Battleship-console.runtimeconfig.json
+/home/max/Desktop/DEV/Battle/Battleship-console/bin/Debug/netcoreapp2.2/Battleship-console.runtimeconfig.dev.json
+/home/max/Desktop/DEV/Battle/Battleship-console/bin/Debug/netcoreapp2.2/Battleship-console.dll
+/home/max/Desktop/DEV/Battle/Battleship-console/bin/Debug/netcoreapp2.2/Battleship-console.pdb
+/home/max/Desktop/DEV/Battle/Battleship-console/obj/Debug/netcoreapp2.2/Battleship-console.csprojAssemblyReference.cache
+/home/max/Desktop/DEV/Battle/Battleship-console/obj/Debug/netcoreapp2.2/Battleship-console.csproj.CoreCompileInputs.cache
+/home/max/Desktop/DEV/Battle/Battleship-console/obj/Debug/netcoreapp2.2/Battleship-console.AssemblyInfoInputs.cache
+/home/max/Desktop/DEV/Battle/Battleship-console/obj/Debug/netcoreapp2.2/Battleship-console.AssemblyInfo.cs
+/home/max/Desktop/DEV/Battle/Battleship-console/obj/Debug/netcoreapp2.2/Battleship-console.dll
+/home/max/Desktop/DEV/Battle/Battleship-console/obj/Debug/netcoreapp2.2/Battleship-console.pdb
